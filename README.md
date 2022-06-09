@@ -13,3 +13,4 @@ How will this help pharmaceutical businesses?
 countries with fewer deaths and cases
 ❖ Help health services on the ground
 ❖ Where to send diagnostic kits
+![1](https://github.com/RezaAmimi/Covid-19-rate-prediction-per-country-/blob/main/GIT%20SCREEN.png)
